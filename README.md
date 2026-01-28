@@ -1,31 +1,102 @@
-# Hi 👋, I'm Biman Nandi
+# 👋 Hi, I'm Biman Nandi
 
-### A passionate Frontent Developer from India
+Final-year Engineering student with a **balanced focus on Data Structures & Algorithms and Web Development**.  
+I enjoy solving problems, building practical React-based applications, and improving my fundamentals through consistent practice.
 
+---
 
-- 🔭 I'm currently working on **a MERN Stack Project**
+## 🎯 What I Do
 
-- 🌱 I'm currently learning **JavaScript and React**
+- Practice **DSA**, with strong focus on arrays and problem-solving logic  
+- Build **frontend and full-stack web applications**  
+- Learn by building projects and refining them step by step  
 
-- 💬 Ask me about **React and Web Development**
+---
 
-- 📫 How to reach me **bimannandib@gmail.com**
+## 🧠 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 Programming Languages
 <p align="left">
-<a href="https://github.com/bimannandib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bimannandib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/biman-nandi-bn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biman-nandi-bn" height="30" width="40" /></a>
-<a href="https://twitter.com/LunarKode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LunarKode" height="30" width="40" /></a>
-<a href="https://leetcode.com/Bimannandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Bimannandi" height="30" width="40" /></a>
-<a href="https://discord.gg/bimannandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bimannandi" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimannandib&show_icons=true&locale=en&layout=compact" alt="bimannandib" /></p>
+### 🧩 Data Structures & Algorithms
+- Arrays
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimannandib&show_icons=true&locale=en" alt="bimannandib" /></p>
+---
 
+### 🌐 Web Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+</p>
 
+- Working with **APIs** (fetching and using external data)
 
+---
+
+### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Recipe Recommendation Web App
+- Built using **React**
+- Suggests recipes dynamically based on user input
+- Focused on component-based architecture and state management  
+🔗 Live Demo: https://recipe-app-three-ruddy.vercel.app/
+
+### 🔹 Meme Generator
+- React-based application
+- Uses external API to generate memes dynamically
+- Strengthened understanding of props, state, and event handling
+
+### 🔹 Tenzies Dice Game
+- Interactive dice game built with React
+- Implemented game logic and win conditions
+- Improved understanding of React hooks and re-rendering
+
+---
+
+## 🏆 Coding Practice & Achievements
+
+- Solved **< 100 problems on LeetCode**
+- Earned **50 Days Consistency Badge** on LeetCode
+- Comfortable with array-based problem solving and basic DSA patterns
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimannandib&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimannandib&layout=compact&theme=dark)
+
+---
+
+## 🌐 Profiles & Contact
+
+- **GitHub:** https://github.com/bimannandib 
+- **LinkedIn:** www.linkedin.com/in/biman-nandi-bn  
+- **LeetCode:** https://leetcode.com/u/Bimannandi/  
+- **X (Twitter):** https://x.com/LunarKode  
+- **Email:** bimannandib@gmail.com  
+
+---
+
+⭐ *Actively learning, building, and open to internships and entry-level opportunities.*
