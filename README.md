@@ -26,6 +26,9 @@ I enjoy solving problems, building practical React-based applications, and impro
 ---
 
 ### 🧩 Data Structures & Algorithms
+- Basic Recursion
+- Basic Hashing
+- Sorting Techniques
 - Arrays
 
 ---
@@ -36,7 +39,7 @@ I enjoy solving problems, building practical React-based applications, and impro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="40" />
 </p>
 
 - Working with **APIs** (fetching and using external data)
