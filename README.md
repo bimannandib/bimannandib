@@ -73,6 +73,7 @@ I enjoy solving problems, building practical React-based applications, and impro
 - Interactive dice game built with React
 - Implemented game logic and win conditions
 - Improved understanding of React hooks and re-rendering
+🔗 Live Demo: https://tenzies-game-beta-seven.vercel.app/
 
 ---
 
