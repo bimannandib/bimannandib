@@ -72,7 +72,7 @@ I enjoy solving problems, building practical React-based applications, and impro
 ### 🔹 Tenzies Dice Game
 - Interactive dice game built with React
 - Implemented game logic and win conditions
-- Improved understanding of React hooks and re-rendering
+- Improved understanding of React hooks and re-rendering<br/>
 🔗 Live Demo: https://tenzies-game-beta-seven.vercel.app/
 
 ---
