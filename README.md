@@ -88,7 +88,9 @@ I enjoy solving problems, building practical React-based applications, and impro
 ## 📊 GitHub Statistics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimannandib&label=Profile%20views&color=0e75b6&style=flat" alt="bimannandib" /> </p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimannandib&layout=compact&theme=dark)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimannandib&theme=dark&hide_border=true" alt="bimannandib" /></p>
 
 ---
