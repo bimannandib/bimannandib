@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Biman Nandi
 
-Final-year Engineering student with a **balanced focus on Data Structures & Algorithms and Web Development**.  
+Pre-Final year Engineering student with a **balanced focus on Data Structures & Algorithms and Web Development**.  
 I enjoy solving problems, building practical React-based applications, and improving my fundamentals through consistent practice.
 
 ---
