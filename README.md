@@ -80,7 +80,7 @@ I enjoy solving problems, building practical React-based applications, and impro
 
 ## 🏆 Coding Practice & Achievements
 
-- Solved **> 100 problems on LeetCode**
+- Solved **100+ problems on LeetCode**
 - Earned **50 Days Consistency Badge of 2026** on LeetCode
 - Comfortable with array-based problem solving and basic DSA patterns
 
