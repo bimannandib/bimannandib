@@ -30,6 +30,7 @@ I enjoy solving problems, building practical React-based applications, and impro
 - Basic Hashing
 - Sorting Techniques
 - Arrays
+- Binary Search
 
 ---
 
@@ -79,8 +80,8 @@ I enjoy solving problems, building practical React-based applications, and impro
 
 ## 🏆 Coding Practice & Achievements
 
-- Solved **< 100 problems on LeetCode**
-- Earned **50 Days Consistency Badge** on LeetCode
+- Solved **> 100 problems on LeetCode**
+- Earned **50 Days Consistency Badge of 2026** on LeetCode
 - Comfortable with array-based problem solving and basic DSA patterns
 
 ---
